@@ -1,0 +1,6 @@
+D:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\XML_Console\XML_Console\bin\Debug\XML_Console.exe.config
+D:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\XML_Console\XML_Console\bin\Debug\XML_Console.exe
+D:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\XML_Console\XML_Console\bin\Debug\XML_Console.pdb
+D:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\XML_Console\XML_Console\obj\Debug\XML_Console.csprojResolveAssemblyReference.cache
+D:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\XML_Console\XML_Console\obj\Debug\XML_Console.exe
+D:\Users\Дмитрий\Documents\Visual Studio 2015\Projects\XML_Console\XML_Console\obj\Debug\XML_Console.pdb
